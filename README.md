@@ -26,7 +26,7 @@ User can compose a new tweet
 
 
 
-<img src="instagram-walkthrough.gif" width=250><br>
+<img src="twitter2-walkthrough.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
