@@ -25,29 +25,8 @@ User can compose a new tweet
  Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
 
 
-### Stretch stories
-User can view more tweets as they scroll with infinite pagination
 
-Improve the user interface and theme the app to feel "twitter branded"
-
-Links in tweets are clickable and will launch the web browser
-
-User can select "reply" from detail view to respond to a tweet
-
-Move the "Compose" action to a FloatingActionButton instead of on the AppBar.
-
-Compose activity is replaced with a modal overlay
-
-Use Parcelable instead of Serializable using the popular Parceler library.
-
-User can open the twitter app offline and see last loaded tweets.
-
-Tweets are persisted into sqlite and can be displayed from the local DB
-
-When a user leaves the compose view without publishing and there is existing text, prompt to save or delete the draft.
-If saved, the draft should then be persisted to disk and can later be resumed from the compose view.
-
-<img src="twitter2-walkthrough.gif" width=250><br>
+<img src="instagram-walkthrough.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
